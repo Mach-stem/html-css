@@ -1,0 +1,84 @@
+
+ p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+ }   
+
+.blog_heading{
+    color:black;
+    font-size:20px;
+    font-weight: bold;
+    font-style: Arial;
+    margin-bottom: 4px;
+    
+}
+.sub-head{
+    color: grey;
+    font-size: 17px;
+    font-style: Arial;
+    margin-bottom: 15px;
+}
+.content{
+    color: black;
+    font-size: 16px;
+    font-style: Arial;
+    margin-bottom: 10px;
+}
+.s{
+    background-color: rgb(13, 146, 37);
+    color: white;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:9px;
+    padding-bottom:9px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    border-radius:5px;
+    margin-bottom:50px;
+}
+.head{
+    color:black;
+    font-size:18px;
+    font-weight: bold;
+    font-style: Arial;
+    margin-bottom: 9px;
+    text-align: center;
+}
+.content{
+    color: black;
+    font-size: 12px;
+    font-style: Arial;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.learn{
+    color: rgb(0, 122, 255);
+    font-size: 12px;
+    font-style: Arial;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom:60px ;
+}
+.learn:hover{
+    text-decoration: underline;
+}
+.tahoma{
+    font-weight: bold;
+    font-family: Tahoma, sans-serif;
+    font-size: 25px;
+    margin-bottom: 60px;
+}
+.b{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: c;
+    margin-bottom: 4px;
+
+}
+.ss{
+    color: red;
+    font-size: 17px;
+    font-style: Arial;
+}
